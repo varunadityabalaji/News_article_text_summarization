@@ -1,7 +1,7 @@
 text_summarization
 ==============================
 
-NLP project to summarise e news articles
+NLP project to summarise news articles
 
 Project Organization
 ------------
